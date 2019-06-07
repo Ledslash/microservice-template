@@ -13,8 +13,8 @@ in due time i shall add them.
 - **Eslint**: Used to check for mistakes in the source files. I personally use
   prettier to check for rules so i use `eslint-config-prettier` and
   `eslint-pluggin-prettier` to help me with this
-  - **Jest**: Used for testing purposes
-  - **Nodemon**: to run the project as dev used usually with `babel-node`
-  - **Prettier**: as a ruleset for the code
-  - **Rimraf**: it's just a helper to delete the dist folder when i'm rebuilding
+- **Jest**: Used for testing purposes
+- **Nodemon**: to run the project as dev used usually with `babel-node`
+- **Prettier**: as a ruleset for the code
+- **Rimraf**: it's just a helper to delete the dist folder when i'm rebuilding
     the project
