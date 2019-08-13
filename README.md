@@ -1,4 +1,4 @@
-## My Personal Microservice Template
+## Microservice Template
 
 This is a simple microservice template that i recently started
 to use for my node microservices, for me this is the most
@@ -18,3 +18,8 @@ in due time i shall add them.
 - **Prettier**: as a ruleset for the code
 - **Rimraf**: it's just a helper to delete the dist folder when i'm rebuilding
     the project
+
+### To-Do List
+- Add Dockerfile Configuration
+- Add CI/CD support
+- Add support for Webpack to take advantage of Minification and Tree Shaking
